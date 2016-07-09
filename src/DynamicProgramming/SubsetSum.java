@@ -19,9 +19,6 @@ public class SubsetSum {
 		return T[val.length][total];
 	}
 	
-
-	
-	
 	public static void main(String[] args){
 		SubsetSum ss = new SubsetSum();
 		int[] arr1 = {2,3,7,8};
